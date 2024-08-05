@@ -1,8 +1,7 @@
 [
-    { "url": "https://picsum.photos/600/800", "type": "tall" },
-    { "url": "https://picsum.photos/600/400", "type": "short" },
-    { "url": "https://picsum.photos/600/450", "type": "short" },
-    { "url": "https://picsum.photos/600/850", "type": "tall" },
-    { "url": "https://picsum.photos/600/400", "type": "short" },
-    { "url": "https://picsum.photos/600/500", "type": "short" }
+    { "url": "https://picsum.photos/600/800" },  // Right Long
+    { "url": "https://picsum.photos/600/400" },  // Left Short
+    { "url": "https://picsum.photos/600/400" },  // Right Short
+    { "url": "https://picsum.photos/600/800" },  // Left Long
+    { "url": "https://picsum.photos/600/800" }   // Merge (for example, the final image spans larger)
 ]
