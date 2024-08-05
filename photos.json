@@ -1,7 +1,7 @@
 [
-    { "url": "https://picsum.photos/600/800" },  // Right Long
-    { "url": "https://picsum.photos/600/400" },  // Left Short
-    { "url": "https://picsum.photos/600/400" },  // Right Short
-    { "url": "https://picsum.photos/600/800" },  // Left Long
-    { "url": "https://picsum.photos/600/800" }   // Merge (for example, the final image spans larger)
+    { "url": "https://picsum.photos/600/800" }, 
+    { "url": "https://picsum.photos/600/400" }, 
+    { "url": "https://picsum.photos/600/400" }, 
+    { "url": "https://picsum.photos/600/800" }, 
+    { "url": "https://picsum.photos/600/800" }  
 ]
