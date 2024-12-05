@@ -54,5 +54,65 @@
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "David Lee",
     "city": "Miami"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/4audi%20r8.jpeg",
+    "title": "Audi",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 45,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "David Lee",
+    "city": "Miami"
+  },
+  
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/5toyota%20fortuner%204k.jpeg",
+    "title": "Toyota Fortuner",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 45,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "David Lee",
+    "city": "Miami"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/6.jpg",
+    "title": "Mustang",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 45,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "David Lee",
+    "city": "Miami"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/6byd%20seal.jpeg",
+    "title": "Byd Seal",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 45,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "David Lee",
+    "city": "Miami"
+  },
+
+  
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/7mini%20cooper.jpeg",
+    "title": "Mini Copper",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 45,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "David Lee",
+    "city": "Miami"
   }
+
+  
 ]
