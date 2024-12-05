@@ -4,19 +4,18 @@
     "title": "Kalasem",
     "start_production": 2012,
     "class": "Electric",
-    "price_per_hour": 30,
+    "price_per_hour": 3000,
     "rating": 4.8,
     "description": "A sleek electric sedan with top-notch technology and luxury.",
     "owner_name": "Ankit Bhandari",
     "city": "Pokhara"
   },
-
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/1toyota%20bz4x.jpeg",
     "title": "Toyota bz4x",
     "start_production": 1964,
     "class": "Sports",
-    "price_per_hour": 25,
+    "price_per_hour": 2500,
     "rating": 4.5,
     "description": "An iconic American muscle car with powerful performance.",
     "owner_name": "Suresh Subedi",
@@ -27,7 +26,7 @@
     "title": "BMW",
     "start_production": 1999,
     "class": "SUV",
-    "price_per_hour": 40,
+    "price_per_hour": 4000,
     "rating": 4.7,
     "description": "A luxury SUV offering comfort, space, and advanced features.",
     "owner_name": "Sandip Timilsina",
@@ -38,7 +37,7 @@
     "title": "lamborghini urus",
     "start_production": 1994,
     "class": "Sedan",
-    "price_per_hour": 35,
+    "price_per_hour": 3500,
     "rating": 4.6,
     "description": "A well-balanced sedan with great handling and luxury feel.",
     "owner_name": "Ram parsad Baral",
@@ -49,7 +48,7 @@
     "title": "Mercedes-Benz C-Class",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Kapil singh",
@@ -60,19 +59,18 @@
     "title": "Audi",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Shiwani Gurung",
     "city": "Kusma"
   },
-  
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/5toyota%20fortuner%204k.jpeg",
     "title": "Toyota Fortuner",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Hari sth",
@@ -83,7 +81,7 @@
     "title": "Mustang",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Ramesh Rai",
@@ -94,24 +92,120 @@
     "title": "Byd Seal",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Kabita Adhikari",
     "city": "Biratnagar"
   },
-
-  
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/7mini%20cooper.jpeg",
     "title": "Mini Copper",
     "start_production": 1993,
     "class": "Luxury",
-    "price_per_hour": 45,
+    "price_per_hour": 4500,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
     "owner_name": "Sajit Magar",
-    "city": "Beni"}
-
+    "city": "Beni"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/BMW%20R%201250%20GS.jpeg",
+    "title": "BMW R1250",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 4500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Gautam Magar",
+    "city": "Beni"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/BMW%20S%201000%20RR.jpeg",
+    "title": "BMW S 1000",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 4500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Gautam Magar",
+    "city": "Bharatpur"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Ducati%20Panigale%20V4.jpeg",
+    "title": "Ducati",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 4500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Gautam Timilsina",
+    "city": "Bharatpur"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Fz%20bike.jpeg",
+    "title": "Yamaha FZ",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 2500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Gautam Timilsina",
+    "city": "Kathmandu"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Harley%20Davidson.jpeg",
+    "title": "Harley Davidson",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 3000,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Ramesh Mandal",
+    "city": "Pokhara"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Kawasaki%20Ninja%20H2.jpeg",
+    "title": "Kawasaki Ninja H2",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 3500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": "Bipin Poudel",
+    "city": "Pokhara"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Rx%20100.jpeg",
+    "title": "Rx 100",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 2000,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": " Arjit Aryal",
+    "city": "Pokhara"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/honda%20shine.jpeg",
+    "title": "Honda Shine",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 1500,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": " Arjit poudel",
+    "city": "Pokhara"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/Suzuki%20hayabusa.jpeg",
+    "title": "Suzuki Hayabusa",
+    "start_production": 1993,
+    "class": "Luxury",
+    "price_per_hour": 4000,
+    "rating": 4.9,
+    "description": "A luxurious and stylish car with excellent build quality.",
+    "owner_name": " Arjit poudel",
+    "city": "Pokhara"
+  }
 ]
-
