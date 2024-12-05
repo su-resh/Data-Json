@@ -7,8 +7,8 @@
     "price_per_hour": 30,
     "rating": 4.8,
     "description": "A sleek electric sedan with top-notch technology and luxury.",
-    "owner_name": "John Doe",
-    "city": "New York"
+    "owner_name": "Ankit Bhandari",
+    "city": "Pokhara"
   },
 
   {
@@ -19,8 +19,8 @@
     "price_per_hour": 25,
     "rating": 4.5,
     "description": "An iconic American muscle car with powerful performance.",
-    "owner_name": "Jane Smith",
-    "city": "Los Angeles"
+    "owner_name": "Suresh Subedi",
+    "city": "Chitwan"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/2.jpg",
@@ -30,8 +30,8 @@
     "price_per_hour": 40,
     "rating": 4.7,
     "description": "A luxury SUV offering comfort, space, and advanced features.",
-    "owner_name": "Michael Johnson",
-    "city": "Chicago"
+    "owner_name": "Sandip Timilsina",
+    "city": "Kathmandu"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/2lamborghini%20urus.jpeg",
@@ -41,8 +41,8 @@
     "price_per_hour": 35,
     "rating": 4.6,
     "description": "A well-balanced sedan with great handling and luxury feel.",
-    "owner_name": "Emily Davis",
-    "city": "San Francisco"
+    "owner_name": "Ram parsad Baral",
+    "city": "Musatang"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/3.jpg",
@@ -52,8 +52,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
+    "owner_name": "Kapil singh",
+    "city": "Butwal"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/4audi%20r8.jpeg",
@@ -63,8 +63,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
+    "owner_name": "Shiwani Gurung",
+    "city": "Kusma"
   },
   
   {
@@ -75,8 +75,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
+    "owner_name": "Hari sth",
+    "city": "Dolpa"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/6.jpg",
@@ -86,8 +86,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
+    "owner_name": "Ramesh Rai",
+    "city": "Pokhara"
   },
   {
     "image": "https://raw.githubusercontent.com/su-resh/Data-Json/refs/heads/main/6byd%20seal.jpeg",
@@ -97,8 +97,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
+    "owner_name": "Kabita Adhikari",
+    "city": "Biratnagar"
   },
 
   
@@ -110,9 +110,8 @@
     "price_per_hour": 45,
     "rating": 4.9,
     "description": "A luxurious and stylish car with excellent build quality.",
-    "owner_name": "David Lee",
-    "city": "Miami"
-  }
+    "owner_name": "Sajit Magar",
+    "city": "Beni"}
 
-  
 ]
+
